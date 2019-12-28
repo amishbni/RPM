@@ -1,2 +1,4 @@
-# Title
-Text for that title
+---
+title: "Beamer Presentation with Pandoc and Markdown"
+---
+
