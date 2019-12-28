@@ -6,3 +6,9 @@ date: "Sunday, December 29, 2019"
 theme: "metropolis"
 ---
 
+# Table of Contents
+
+1. [What is Beamer?](#what-is-beamer)
+
+# What is Beamer?
+Beamer is a LaTeX class.
