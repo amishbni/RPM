@@ -8,7 +8,7 @@ theme: "metropolis"
 
 # Table of Contents
 
-1. [What is Beamer?](#what-is-beamer)
+1. [What are Beamer, Pandoc, and Markdown?](#what-are-beamer-pandoc-and-markdown)
 
-# What is Beamer?
+# What are Beamer, Pandoc, and Markdown?
 Beamer is a LaTeX class.
