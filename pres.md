@@ -93,3 +93,9 @@ Readability, however, is emphasized above all else. A markdown-formatted documen
 `<https://pandoc.org>` becomes <https://pandoc.org>
 
 `[Pandoc](https://pandoc.org)` becomes [Pandoc](https://pandoc.org)
+
+# Images
+
+`![alternative text](address to image)`
+
+![latex](latex.png)
