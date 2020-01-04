@@ -12,14 +12,13 @@ theme: "metropolis"
 1. [What are Beamer, Pandoc, and Markdown?](#what-are-beamer-pandoc-and-markdown)
 2. [The Philosophy of Markdown](#the-philosophy-of-markdown)
 3. [Markdown Syntax](#markdown-syntax)
-	1. [Headers](#headers)
-	2. [Emphasis](#emphasis)
-	3. [Lists](#lists)
-	4. [Links](#links)
-	5. [Images](#images)
-	6. [Code and Syntax Highlighting](#code-and-syntax-highlighting)
-	7. [Tables](#tables)
-	8. [Blockquotes](#blockquotes)
+	1. [Typography](#typography)
+	2. [Lists](#lists)
+	3. [Links](#links)
+	4. [Images](#images)
+	5. [Code and Syntax Highlighting](#code-and-syntax-highlighting)
+	6. [Tables](#tables)
+	7. [Blockquotes](#blockquotes)
 
 # What are Beamer, Pandoc, and Markdown?
 - **Beamer**
@@ -44,3 +43,14 @@ theme: "metropolis"
 
 Readability, however, is emphasized above all else. A markdown-formatted document should be *publishable* as-is, as plain text, without looking like it's been marked up with tags or formatting instructions.
 
+# Typography
+
+`*italic* | _italic_` becomes *italic*
+
+`**bold** | __bold__` becomes **bold**
+
+`**_bold and italic_**` becomes **_bold and italic_**
+
+`~~strikethrough~~` becomes ~~strikethrough~~
+
+`**_~~mixed~~_**` becomes **_~~mixed~~_**
