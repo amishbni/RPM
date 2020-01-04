@@ -54,3 +54,19 @@ Readability, however, is emphasized above all else. A markdown-formatted documen
 `~~strikethrough~~` becomes ~~strikethrough~~
 
 `**_~~mixed~~_**` becomes **_~~mixed~~_**
+
+# Lists
+
+**Ordered List**
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+**Unordered List**
+
+- Item 1
+- Item 2
+- Item 3
+
+
