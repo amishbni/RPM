@@ -21,6 +21,7 @@ linkcolor: blue
 	6. [Tables](#tables)
 	7. [Blockquotes](#blockquotes)
 4. [Installing and running](#installing-and-running)
+5. [References](#references)
 
 # What are Beamer, Pandoc, and Markdown?
 - **Beamer**
@@ -165,3 +166,9 @@ becomes
 ```sh
 pandoc input.md -t beamer -o output.pdf 
 ```
+
+# References
+
+[**R Markdown** from RStudio](https://garrettgman.github.io/rmarkdown/authoring_pandoc_markdown.html)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
