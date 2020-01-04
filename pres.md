@@ -146,3 +146,12 @@ becomes
 | col 2 is      | centered      |   $12 |
 | col 1 is      | left-aligned  |    $1 |
 
+# Blockquotes
+
+~~~~~~
+> This is a block quote.
+~~~~~~
+
+&nbsp;
+
+> Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions. 
