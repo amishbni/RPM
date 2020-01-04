@@ -20,6 +20,7 @@ linkcolor: blue
 	5. [Code and Syntax Highlighting](#code-and-syntax-highlighting)
 	6. [Tables](#tables)
 	7. [Blockquotes](#blockquotes)
+4. [Installing and running](#installing-and-running)
 
 # What are Beamer, Pandoc, and Markdown?
 - **Beamer**
@@ -155,3 +156,12 @@ becomes
 &nbsp;
 
 > Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions. 
+
+# Installing and Running
+
+1. Install `LaTex` and `Pandoc`
+2. Run this command:
+
+```sh
+pandoc input.md -t beamer -o output.pdf 
+```
