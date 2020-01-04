@@ -10,7 +10,8 @@ theme: "metropolis"
 # Table of Contents
 
 1. [What are Beamer, Pandoc, and Markdown?](#what-are-beamer-pandoc-and-markdown)
-2. [Markdown Syntax](#markdown-syntax)
+2. [The Philosophy of Markdown](#the-philosophy-of-markdown)
+3. [Markdown Syntax](#markdown-syntax)
 	1. [Headers](#headers)
 	2. [Emphasis](#emphasis)
 	3. [Lists](#lists)
@@ -37,11 +38,9 @@ theme: "metropolis"
 
 	Markdown is a lightweight **markup language** with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports **HTML**. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-# Markdown Syntax
+# The Philosophy of Markdown
 
-**Philosophy**
+*Markdown* is intended to be as **easy-to-read** and **easy-to-write** as is feasible.
 
-*Markdown* is intended to be as easy-to-read and easy-to-write as is feasible.
-
-Readability, however, is emphasized above all else. A markdown-formatted document should be publishable as-is, as plain text, without looking like it's been marked up with tags or formatting instructions.
+Readability, however, is emphasized above all else. A markdown-formatted document should be *publishable* as-is, as plain text, without looking like it's been marked up with tags or formatting instructions.
 
