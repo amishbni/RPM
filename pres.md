@@ -99,3 +99,31 @@ Readability, however, is emphasized above all else. A markdown-formatted documen
 `![alternative text](address to image)`
 
 ![latex](latex.png)
+
+# Code and Syntax Highlighting
+
+~~~~~~
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+~~~~~~
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+# Code and Syntax Highlighting
+
+~~~~~~
+```python
+string = "Python syntax highlighting"
+print(string)
+```
+~~~~~~
+
+```python
+string = "Python syntax highlighting"
+print(string)
+```
