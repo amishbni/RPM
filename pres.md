@@ -5,6 +5,7 @@ author: "Amir Shabani - 9413088021"
 institute: "University of Qom"
 date: "Sunday, December 29, 2019"
 theme: "metropolis"
+linkcolor: blue
 ---
 
 # Table of Contents
@@ -69,4 +70,8 @@ Readability, however, is emphasized above all else. A markdown-formatted documen
 - Item 2
 - Item 3
 
+# Links
 
+`<https://pandoc.org>` becomes <https://pandoc.org>
+
+`[Pandoc](https://pandoc.org)` becomes [Pandoc](https://pandoc.org)
